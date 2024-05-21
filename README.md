@@ -6,3 +6,6 @@ This is a learning Project, the main Objective of this project to create an appl
 Spring Boot is used to develop back-end and Spring Data JPA is used for performing Database CRUD operations.
 <br>
 HTML5, CSS3, Bootstrap ,Thymeleaf and JQuery as template Engine is used to develop the front end..
+
+<h3>Working:</h3>
+Here I have used server side validation for validating username ,password ,email etc.For password and email I have used regex expressions.
