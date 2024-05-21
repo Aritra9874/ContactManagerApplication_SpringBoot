@@ -18,4 +18,4 @@ Here I have used server side validation for validating username ,password ,email
 <br>
 Here I have used Spring Security,so that any malicious call to my endpoint will not be authenticated..
 <br>
-There is various module after successful login,user can see his profile,Edit profile,Add Contacts,Delete Contacts,Update contacts etc.
+There is various module after successful login,user can see his profile,Edit profile,Add Contacts,Delete Contacts,Update contacts,Search contacts etc.
